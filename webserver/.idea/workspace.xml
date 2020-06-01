@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7cafe4fa-7502-491c-8145-5fbc0fc9b3ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forrecruiters.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forrecruiters.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,20 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="92" column="42" selection-start-line="92" selection-start-column="42" selection-end-line="92" selection-end-column="42" />
+            <state relative-caret-position="1932">
+              <caret line="92" column="61" selection-start-line="92" selection-start-column="61" selection-end-line="92" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="74" column="228" selection-start-line="74" selection-start-column="228" selection-end-line="74" selection-end-column="228" />
+            <state relative-caret-position="410">
+              <caret line="71" column="163" lean-forward="true" selection-start-line="71" selection-start-column="163" selection-end-line="71" selection-end-column="163" />
             </state>
           </provider>
         </entry>
@@ -136,16 +136,15 @@
         <option value="$PROJECT_DIR$/templates/contact.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/about.html" />
-        <option value="$PROJECT_DIR$/templates/forrecruiters.html" />
         <option value="$PROJECT_DIR$/templates/projects.html" />
+        <option value="$PROJECT_DIR$/templates/forrecruiters.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3439" />
-    <option name="y" value="80" />
-    <option name="width" value="1356" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3440" />
+    <option name="width" value="1280" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,13 +170,6 @@
               <item name="webserver" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webserver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webserver" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webserver" type="b2602c69:ProjectViewProjectNode" />
@@ -270,10 +262,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3432" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="3440" y="0" width="1280" height="1040" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988372" visible="true" weight="0.12962963" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988372" visible="true" weight="0.26489532" />
       <window_info id="Structure" order="1" sideWeight="0.50116277" side_tool="true" weight="0.09625512" />
       <window_info id="Favorites" order="2" sideWeight="0.50116277" side_tool="true" weight="0.09625512" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,7 +275,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.41170096" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4189636" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32969603" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -390,6 +381,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="92" column="61" selection-start-line="92" selection-start-column="61" selection-end-line="92" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -409,15 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="74" column="228" selection-start-line="74" selection-start-column="228" selection-end-line="74" selection-end-column="228" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="92" column="42" selection-start-line="92" selection-start-column="42" selection-end-line="92" selection-end-column="42" />
+        <state relative-caret-position="410">
+          <caret line="71" column="163" lean-forward="true" selection-start-line="71" selection-start-column="163" selection-end-line="71" selection-end-column="163" />
         </state>
       </provider>
     </entry>
