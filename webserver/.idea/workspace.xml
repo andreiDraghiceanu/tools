@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cafe4fa-7502-491c-8145-5fbc0fc9b3ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/images/space.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/space.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/images/space_sm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/space_sm.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/images/work001-01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/work001-01.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/forrecruiters.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forrecruiters.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thankyou.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +23,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="126">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
@@ -40,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
+            <state relative-caret-position="840">
               <caret line="40" column="80" selection-start-line="40" selection-start-column="80" selection-end-line="40" selection-end-column="80" />
               <folding>
                 <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/sitemap.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="147">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -70,17 +70,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="861">
               <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state relative-caret-position="462">
+              <caret line="148" column="40" lean-forward="true" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -88,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state relative-caret-position="788">
+              <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -97,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state relative-caret-position="840">
+              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#span#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -106,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/thankyou.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+            <state relative-caret-position="861">
+              <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -147,14 +147,14 @@
         <option value="$PROJECT_DIR$/database.csv" />
         <option value="$PROJECT_DIR$/templates/works.html" />
         <option value="$PROJECT_DIR$/templates/robots.txt" />
-        <option value="$PROJECT_DIR$/templates/sitemap.xml" />
         <option value="$PROJECT_DIR$/server.py" />
         <option value="$PROJECT_DIR$/templates/about.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/templates/projects.html" />
-        <option value="$PROJECT_DIR$/templates/forrecruiters.html" />
-        <option value="$PROJECT_DIR$/templates/contact.html" />
         <option value="$PROJECT_DIR$/templates/thankyou.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/sitemap.xml" />
+        <option value="$PROJECT_DIR$/templates/forrecruiters.html" />
+        <option value="$PROJECT_DIR$/templates/projects.html" />
       </list>
     </option>
   </component>
@@ -170,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +198,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,7 +294,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969603" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.25027084" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24918744" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32969603" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -355,19 +355,35 @@
     <entry file="file://$PROJECT_DIR$/database.txt" />
     <entry file="file://$PROJECT_DIR$/static/assets/images/work02-hover1.jpg" />
     <entry file="file://$PROJECT_DIR$/database.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="21">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/sitemap.xml">
+    <entry file="file://$PROJECT_DIR$/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="126">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="80" selection-start-line="40" selection-start-column="80" selection-end-line="40" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -378,54 +394,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="40" column="80" selection-start-line="40" selection-start-column="80" selection-end-line="40" selection-end-column="80" />
-          <folding>
-            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="861">
           <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        <state relative-caret-position="840">
+          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#a#0;n#span#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -434,8 +413,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/thankyou.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        <state relative-caret-position="861">
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="148" column="40" lean-forward="true" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
         </state>
       </provider>
     </entry>
