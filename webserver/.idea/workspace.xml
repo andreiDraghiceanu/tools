@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cafe4fa-7502-491c-8145-5fbc0fc9b3ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/forrecruiters.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forrecruiters.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/thankyou.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="861">
+              <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -162,12 +157,12 @@
         <option value="$PROJECT_DIR$/static/style1.css" />
         <option value="$PROJECT_DIR$/static/script.js" />
         <option value="$PROJECT_DIR$/static/style.css" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/projects.html" />
         <option value="$PROJECT_DIR$/templates/thankyou.html" />
         <option value="$PROJECT_DIR$/templates/contact.html" />
         <option value="$PROJECT_DIR$/templates/about.html" />
         <option value="$PROJECT_DIR$/templates/forrecruiters.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
       </list>
     </option>
   </component>
@@ -412,9 +407,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/thankyou.html">
+    <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
+        <state relative-caret-position="441">
+          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
           <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="69" />
         </state>
       </provider>
@@ -426,17 +428,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
+    <entry file="file://$PROJECT_DIR$/templates/thankyou.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="428">
           <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/forrecruiters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -449,8 +444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="861">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
