@@ -1,32 +1,59 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-168231005-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-168231005-1');
+  </script>
 
 <head>
   <meta charset="UTF-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="width=device-width,initial-scale=1" name="viewport">
-  <meta content="description" name="description">
+  <meta content="Home of Andrei Draghiceanu's Website - Automation Engineer." name="description">
   <meta name="google" content="notranslate" />
-  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+  <meta content="Andrei Draghiceanu's Website. This is my Bio." name="Andrei Draghiceanu">
+  <!-- Primary Meta Tags -->
+  <title>Andrei Draghiceanu's Personal Website</title>
+  <meta name="title" content="Andrei Draghiceanu's Personal Website">
+  <meta name="description" content="Home of Andrei Draghiceanu's Website - Automation Engineer.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://andreid.dev/">
+  <meta property="og:title" content="Hello, I'm Andrei Draghiceanu, Automation Engineer. This is my personal website.">
+  <meta property="og:description" content="Home of Andrei Draghiceanu's Website - Automation Engineer.">
+  <meta property="og:image" content="">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://andreid.dev/">
+  <meta property="twitter:title" content="Hello, I'm Andrei Draghiceanu, Automation Engineer. This is my personal website.">
+  <meta property="twitter:description" content="Home of Andrei Draghiceanu's Website - Automation Engineer.">
+  <meta property="twitter:image" content="">
 
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
   
   <link rel="apple-touch-icon" sizes="180x180" href="./static/assets/apple-icon-180x180.png">
-  <link href="./static/assets/favicon.ico" rel="shortcut icon" type="image/ico">
-
-  <title>Andrei Draghiceanu's Personal Website</title>
+  <link href="./static/assets/favicon.ico" rel="icon">
 
 <link href="./static/style.css" rel="stylesheet"></head>
 
 <body class="minimal">
+
+<div id="particles-js"></div>
 <div id="site-border-left"></div>
 <div id="site-border-right"></div>
 <div id="site-border-top"></div>
 <div id="site-border-bottom"></div>
 <!-- Add your content of header -->
 <header>
-  <nav class="navbar  navbar-fixed-top navbar-inverse">
+  <nav class="navbar navbar-fixed-top navbar-inverse">
     <div class="container">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
           <span class="sr-only">Toggle navigation</span>
@@ -43,41 +70,20 @@
           <li><a href="./about.html" title="">03 : About me</a></li>
           <li><a href="./contact.html" title="">04 : Contact</a></li>
         </ul>
-
       </div> 
     </div>
   </nav>
 </header>
 <!-- Add your site or app content here -->
-  <div class="hero-full-container background-image-container white-text-container" style="background-image: url('./static/assets/images/space.jpg')">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <div class="hero-full-wrapper">
-            <div class="text-content">
-              <h1>Hello,<br>
-                <span id="typed-strings">
-                  <span>I'm Andrei Draghiceanu</span>
-                  <span>Automation Engineer</span>
-                  <span>This is my Station</span>
-                </span>
-                <span id="typed"></span>
-              </h1>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
 <script>
   document.addEventListener("DOMContentLoaded", function (event) {
-     type();
      movingBackgroundImage();
   });
 </script>
 
 
-<script type="text/javascript" src="./static/script.js"></script></body>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script type="text/javascript" src="./static/script.js"></script>
+</body>
 
 </html>
